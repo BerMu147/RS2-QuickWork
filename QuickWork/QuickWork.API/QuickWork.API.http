@@ -1,0 +1,6 @@
+@QuickWork.API_HostAddress = http://localhost:5005
+
+GET {{QuickWork.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
